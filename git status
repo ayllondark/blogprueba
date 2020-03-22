@@ -1,0 +1,28 @@
+[33mcommit 949cc32ddefbacee89d5f6002ea6c3a74fa309ec[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Miguel Ayllon <team@creativalatam.com>
+Date:   Sun Mar 15 15:48:37 2020 -0500
+
+    Commit al master en blogpost en su version mas reciente
+
+ blogpost.html   |  9 [32m+++++++[m[31m--[m
+ css/estilos.css | 15 [32m++++++++++++++[m[31m-[m
+ 2 files changed, 21 insertions(+), 3 deletions(-)
+
+[33mcommit 51f100ea04008938a98cbb4b630cd2c96cd6d207[m
+Author: Miguel Ayllon <team@creativalatam.com>
+Date:   Sun Mar 15 12:48:02 2020 -0500
+
+    Arranco mi proyecto real con html y css
+
+ blogpost.html   | 13 [32m+++++++++++++[m
+ css/estilos.css |  5 [32m+++++[m
+ 2 files changed, 18 insertions(+)
+
+[33mcommit e1f8f2a664c39a7aede19758ebcff7eb7e94a39c[m
+Author: Miguel Ayllon <team@creativalatam.com>
+Date:   Sun Mar 15 09:56:22 2020 -0500
+
+    Este es el primer commit de este archivo
+
+ historia.txt | 5 [32m+++++[m
+ 1 file changed, 5 insertions(+)
